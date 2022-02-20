@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.111.53.114:9980/mithuntechnologies/repository/facebook/"
+    "registry": "http://3.110.219.35:9980/dadasaheb/repository/facebook/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
